@@ -1,16 +1,15 @@
 # Github Finder
-
-> React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management and is part of the "Modern React Front To Back" Udemy course
-
+> React-applikasjon for å søke på Github-profiler. Appen bruker Context API med useContext og useReducer hooks for å håndtere states.
+> Applikasjonen finnes ved: https://magnus-github-search.netlify.app/ 
+> Evt følg instrukser under
 ## Usage
 
 ### `npm install`
 
 ### `npm start`
 
-Runs the app in the development mode.<br>
+Kjører appen i development mode.<b
 Open [http://localhost:3000](http://localhost:3000)
 
 ### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
+Bygger appen for produksjon i `build`-folder.<br>
